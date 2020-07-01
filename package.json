@@ -1,5 +1,5 @@
 {
-  "name": "cpf-cnpj",
+  "name": "validator-cpf-cnpj",
   "version": "1.0.0",
   "description": "Validador de CPF e CNPJ",
   "main": "index.js",
