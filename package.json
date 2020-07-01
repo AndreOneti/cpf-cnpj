@@ -1,12 +1,28 @@
 {
   "name": "cpf-cnpj",
   "version": "1.0.0",
-  "description": "",
+  "description": "Validador de CPF e CNPJ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreOneti/cpf-cnpj.git"
+  },
+  "keywords": [
+    "cpf",
+    "cnpj",
+    "cpf-mask",
+    "cnpj-mask",
+    "validator",
+    "cpf-validator",
+    "cnpj-validator"
+  ],
+  "author": "AndreOneti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreOneti/cpf-cnpj/issues"
+  },
+  "homepage": "https://github.com/AndreOneti/cpf-cnpj#readme"
 }
